@@ -6,6 +6,3 @@ export * from './Pagina2Screen'
 
 export {default as Pagina3Screen} from './Pagina3Screen'
 export * from './Pagina3Screen'
-
-export {default as Pagina4Screen} from './Pagina4Screen'
-export * from './Pagina4Screen'

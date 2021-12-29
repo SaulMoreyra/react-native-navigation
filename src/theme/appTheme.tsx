@@ -1,9 +1,13 @@
-const { StyleSheet } = require("react-native");
+import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
-    globalMargin:{
-        marginHorizontal: 20
-    }
-})
+  globalMargin: {
+    marginHorizontal: 20,
+  },
+  title: {
+    fontSize: 30,
+    marginBottom: 20,
+  },
+});
 
 export default styles;
